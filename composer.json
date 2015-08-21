@@ -23,6 +23,7 @@
             "homepage": "http://www.krajee.com/"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "kartik-v/yii2-widget-activeform": "~1.4",
         "creocoder/yii2-nested-sets": "dev-master as 0.9.0"
